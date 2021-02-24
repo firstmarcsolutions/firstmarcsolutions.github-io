@@ -1,2 +1,2 @@
-# firstmarcsolutions.github-io
+# firstmarcsolutions.github.io
 Website for practice
